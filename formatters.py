@@ -13,7 +13,3 @@ def format_string(string, repeat):
             formatted_string += char
             count = 1
     return formatted_string
-
-
-test_string = ""
-print(format_string(test_string, 1))
